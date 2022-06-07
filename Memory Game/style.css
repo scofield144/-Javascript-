@@ -1,0 +1,21 @@
+*{
+    background-color: #53599A;
+}
+
+.main {
+    /* display: flex; */
+    position: relative;
+    width: 500px;
+    height: 500px;
+    /* background-color: aqua; */
+    margin: auto auto;
+}
+
+#grid {
+  
+    width: 400px;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-items: center; 
+}
