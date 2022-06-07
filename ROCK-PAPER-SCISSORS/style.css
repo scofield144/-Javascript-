@@ -1,0 +1,22 @@
+
+body {
+    background-color: hsl(169, 99%, 18%) ;
+    color: hsl(341, 69%, 51%);
+}
+
+.container {
+   
+    /* background-color: blanchedalmond; */
+    position: relative;
+    left: 100px;
+    min-width: 10vw;
+}
+/* .outputs,.buttons {
+    position: absolute;
+} */
+/* 
+#paper {
+    /* background-image: url(/img/icons8-hand-96.png); */
+    width: 100px;
+    height: 100px;
+} */
